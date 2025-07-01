@@ -3,7 +3,7 @@
 #
 ###
 
-<p align="left">Hi there 👋, I'm Onyinye Oguejiofor<br><br>A Data Analyst with skills in Python, SQL, PowerBI, Tableau and Excel.</p>
+<p align="left">Hi there 👋, I am Onyinye Oguejiofor<br><br>A Data Analyst with skills in Python, SQL, PowerBI, Tableau and Excel.</p>
 
 ###
 What I Do:
