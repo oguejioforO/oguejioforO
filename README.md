@@ -3,11 +3,20 @@
 #
 ###
 
-<p align="left">Hi there 👋, I'm Onyinye Oguejiofor<br><br>A passionate Data Analyst with skills in Power BI, Excel, SQL, Python, and Tableau.</p>
+<p align="left">Hi there 👋, I'm Onyinye Oguejiofor<br><br>A Data Analyst with skills in Python, SQL, PowerBI, Tableau and Excel.</p>
 
 ###
+What I Do:
 
-<p align="left">- I’m currently working on data visualization projects and real-world analysis<br>- I’m learning advanced Power BI & AI integration<br>- Ask me about Data Cleaning, Dashboarding, and Visualization<br>- Reach me: esteenoble@gmail.com<br>- Open to remote opportunities & collaboration</p>
+1. Clean, transform, and model data using **Python (Pandas, NumPy)**  
+2. Analyze business metrics using **SQL (MySQL & PostgreSQL)**  
+3. Build interactive dashboards with **Power BI**, **Tableau**, and **Excel**  
+4. Automate reporting and insights generation  
+5. Communicate findings through clear data storytelling  
+6. Work with both structured and semi-structured data (CSV, JSON, MongoDB)
+
+At The Moment:
+<p align="left">- I am currently working on data visualization projects and real-world analysis<br>- I am learning advanced Power BI & AI integration<br>- Ask me about Data Cleaning, Dashboarding, and Visualization<br>- Open to remote opportunities & collaboration</p>
 
 ###
 #
